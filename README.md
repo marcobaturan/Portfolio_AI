@@ -34,7 +34,7 @@ Below is a selection of my most representative projects. Each includes a link to
 ### 📂 Study on alternative type of ANNs.
 * **Description:** A set of ANNs, where use imaginary, surreal, complex, etc. numbers to research new mathmatical properties. And explore an hypothetical algebra for coding the biochemistry in artificial neurons.
 * **Technologies:** `Python`, `TensorFlow`, `Pandas`, `NLTK`, `Scikit-learn`.
-* **[View Project ->]([./link/to/project1/folder](https://github.com/marcobaturan/Portfolio_AI/tree/main/Study_on_alternatives_ANNs))**
+* **[View Project ->](https://github.com/marcobaturan/Portfolio_AI/tree/main/Study_on_alternatives_ANNs)**
 
 ---
 
