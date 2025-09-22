@@ -36,6 +36,25 @@ Below is a selection of my most representative projects. Each includes a link to
 * **Technologies:** `Python`, `TensorFlow`, `Pandas`, `NLTK`, `Scikit-learn`.
 * **[View Project ->](https://github.com/marcobaturan/Portfolio_AI/tree/main/Study_on_alternatives_ANNs)**
 
+### 📂 GRAG: GraphRAG.
+* **Description:** Small project to understand the utility of Graph with Retrieval Augmented Generation technology.
+* **Technologies:** `Python`, `Ollama`, `OpenAI`.
+* **[View Project ->](https://github.com/marcobaturan/GRAG)**
+
+* ### 📂 News summarizer.
+* **Description:** Small project to test an online You Tube summarizer using the Groq's API LLM.
+* **Technologies:** `Python`, `Ollama`, `Groq`.
+* **[View Project ->]([https://github.com/marcobaturan/news_summarizer)**
+
+* ### 📂 Complex.
+* **Description:** Research about compose multi-modal models unified by a programatic cognitive architecture.
+* **Technologies:** `Python`, `Ollama`, `Groq`.
+* **[View Project ->](https://github.com/marcobaturan/Complex)**
+
+* ### 📂 Veterinary expert system paraistes.
+* **Description:** Expert veterinary system developed in Prolog to schedule deworming for dogs and cats.
+* **Technologies:** `Prolog`.
+* **[View Project ->](https://github.com/marcobaturan/sistema_experto_diagnostico_desparasitaci-n)**
 ---
 
 ## 📫 Let's Connect!
