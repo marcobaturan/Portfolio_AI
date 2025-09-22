@@ -1,0 +1,5 @@
+Network Type,Number System,Architecture,Training Time (s),Final Training Error,Test Error,Convergence Speed,Stability,Innovation Level
+Real,Standard real numbers ℝ,3-2-1,0.05478191375732422,0.2472380046325487,0.12006393106376685,Medium,Moderate,Standard
+Complex,Complex numbers ℂ,3-2-1,0.09124040603637695,0.16555081277394884,0.17091522283420688,Medium,Very Stable,High
+Superreal,"Superreal numbers (δ, Ω)",3-2-1,0.22578668594360352,0.042570677943649105,0.06640936992941687,Medium,Very Stable,Revolutionary
+Hypercomplex,Quaternions ℍ,3-2-1,0.16946959495544434,0.5460037038552751,0.5345838442311222,Very Slow,Very Stable,Revolutionary
