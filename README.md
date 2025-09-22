@@ -42,5 +42,5 @@ Below is a selection of my most representative projects. Each includes a link to
 
 I am actively looking for opportunities to apply my skills and contribute to innovative projects. If my profile interests you, please feel free to reach out!
 
-* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/)
-* **Email:** your.email@example.com
+* **LinkedIn:** [Marco Baturan](https://www.linkedin.com/in/marcogarciabaturan)
+* **Email:** marco.baturan@gmail.com
