@@ -55,6 +55,7 @@ Below is a selection of my most representative projects. Each includes a link to
 * **Description:** Expert veterinary system developed in Prolog to schedule deworming for dogs and cats.
 * **Technologies:** `Prolog`.
 * **[View Project ->](https://github.com/marcobaturan/sistema_experto_diagnostico_desparasitaci-n)**
+  
 ---
 
 ## 📫 Let's Connect!
