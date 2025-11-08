@@ -31,6 +31,21 @@ Here are some of the technologies I regularly work with:
 
 Below is a selection of my most representative projects. Each includes a link to its respective folder containing the code and a more detailed explanation.
 
+### 📂 LLM2CLIPS.
+* **Description:** Small project to understand the utility of implementation neuronal and logical architecture (by inductive reasoning with CLIPS) in a basic way .
+* **Technologies:** `Python`, `Ollama`, `Prolog`.
+* **[View Project ->](https://github.com/marcobaturan/LLM2CLIPS/tree/main)**
+  
+### 📂 Naive Neuro Symbolic.
+* **Description:** Small project to understand the utility of implementation neuronal and logical architecture (by deductive reasoning with Prolog) in a basic way.
+* **Technologies:** `Python`, `Ollama`, `Prolog`.
+* **[View Project ->](https://github.com/marcobaturan/Naive-Neuro-Symbolic)**
+
+### 📂 Evolving cellular neuronal automata.
+* **Description:** Small project to understand the utility of implementation evolutiva neuronal automata with basic reinforced learning.
+* **Technologies:** `Python`, `ANN`, `AE`.
+* **[View Project ->](https://github.com/marcobaturan/evolving-cellular-neuronal-automate)**
+
 ### 📂 Study on alternative type of ANNs.
 * **Description:** A set of ANNs, where use imaginary, surreal, complex, etc. numbers to research new mathmatical properties. And explore an hypothetical algebra for coding the biochemistry in artificial neurons.
 * **Technologies:** `Python`, `TensorFlow`, `Pandas`, `NLTK`, `Scikit-learn`.
