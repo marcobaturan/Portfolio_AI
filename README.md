@@ -36,6 +36,11 @@ Below is a selection of my most representative projects. Each includes a link to
 * **Technologies:** `React`, `Vite`, `Google Gemini AI`, `Vercel`.
 * **[View Project ->](https://github.com/marcobaturan/gherkin-generator)**
 
+### 📂 GRAG: GraphRAG.
+* **Description:** Small project to understand the utility of Graph with Retrieval Augmented Generation technology.
+* **Technologies:** `Python`, `Ollama`, `OpenAI`.
+* **[View Project ->](https://github.com/marcobaturan/GRAG)**
+
 ### 📂 LLM2CLIPS.
 * **Description:** Small project to understand the utility of implementation neuronal and logical architecture (by inductive reasoning with CLIPS) in a basic way .
 * **Technologies:** `Python`, `Ollama`, `Prolog`.
@@ -55,11 +60,6 @@ Below is a selection of my most representative projects. Each includes a link to
 * **Description:** A set of ANNs, where use imaginary, surreal, complex, etc. numbers to research new mathmatical properties. And explore an hypothetical algebra for coding the biochemistry in artificial neurons.
 * **Technologies:** `Python`, `TensorFlow`, `Pandas`, `NLTK`, `Scikit-learn`.
 * **[View Project ->](https://github.com/marcobaturan/Portfolio_AI/tree/main/Study_on_alternatives_ANNs)**
-
-### 📂 GRAG: GraphRAG.
-* **Description:** Small project to understand the utility of Graph with Retrieval Augmented Generation technology.
-* **Technologies:** `Python`, `Ollama`, `OpenAI`.
-* **[View Project ->](https://github.com/marcobaturan/GRAG)**
 
 ### 📂 News summarizer.
 * **Description:** Small project to test an online You Tube summarizer using the Groq's API LLM.
