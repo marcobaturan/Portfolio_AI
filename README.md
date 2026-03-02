@@ -31,6 +31,11 @@ Here are some of the technologies I regularly work with:
 
 Below is a selection of my most representative projects. Each includes a link to its respective folder containing the code and a more detailed explanation.
 
+### 📂 Gherkin Test Case Generator
+* **Description:** AI-powered web app that generates BDD test cases in Gherkin format from plain-text functional descriptions using Google Gemini.
+* **Technologies:** `React`, `Vite`, `Google Gemini AI`, `Vercel`.
+* **[View Project ->](https://github.com/marcobaturan/gherkin-generator)**
+
 ### 📂 LLM2CLIPS.
 * **Description:** Small project to understand the utility of implementation neuronal and logical architecture (by inductive reasoning with CLIPS) in a basic way .
 * **Technologies:** `Python`, `Ollama`, `Prolog`.
