@@ -31,6 +31,12 @@ Here are some of the technologies I regularly work with:
 
 Below is a selection of my most representative projects. Each includes a link to its respective folder containing the code and a more detailed explanation.
 
+📂 SEO Content Analyzer
+
+Description: AI-powered web app that analyzes plain-text content and returns a structured SEO report with keywords, readability, structure evaluation and actionable recommendations, using Groq's LLaMA 3.3 70B model.
+Technologies: React, Vite, Groq AI, Vercel.
+[View Project ->](https://seocontentanalyzer.vercel.app/)
+
 ### 📂 Gherkin Test Case Generator
 * **Description:** AI-powered web app that generates BDD test cases in Gherkin format from plain-text functional descriptions using Google Gemini.
 * **Technologies:** `React`, `Vite`, `Google Gemini AI`, `Vercel`.
