@@ -31,6 +31,12 @@ Here are some of the technologies I regularly work with:
 
 Below is a selection of my most representative projects. Each includes a link to its respective folder containing the code and a more detailed explanation.
 
+📂 Chatbot Groq
+
+Description: AI-powered embeddable chatbot with multi-turn conversation support, built on Groq's LLaMA 3.3 70B model. Deployable as a standalone web app or embedded in any website via iframe.
+Technologies: React, Vite, Groq AI, Vercel.
+[View Project ->](https://chatbotgroq.vercel.app/)
+
 📂 SEO Content Analyzer
 
 * **Description**: AI-powered web app that analyzes plain-text content and returns a structured SEO report with keywords, readability, structure evaluation and actionable recommendations, using Groq's LLaMA 3.3 70B model.
