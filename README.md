@@ -33,9 +33,9 @@ Below is a selection of my most representative projects. Each includes a link to
 
 📂 Chatbot Groq
 
-Description: AI-powered embeddable chatbot with multi-turn conversation support, built on Groq's LLaMA 3.3 70B model. Deployable as a standalone web app or embedded in any website via iframe.
-Technologies: React, Vite, Groq AI, Vercel.
-[View Project ->](https://chatbotgroq.vercel.app/)
+* **Description**: AI-powered embeddable chatbot with multi-turn conversation support, built on Groq's LLaMA 3.3 70B model. Deployable as a standalone web app or embedded in any website via iframe.
+* **Technologies**: React, Vite, Groq AI, Vercel.
+* **[View Project ->](https://chatbotgroq.vercel.app/)**
 
 📂 SEO Content Analyzer
 
@@ -46,7 +46,7 @@ Technologies: React, Vite, Groq AI, Vercel.
 ### 📂 Gherkin Test Case Generator
 * **Description:** AI-powered web app that generates BDD test cases in Gherkin format from plain-text functional descriptions using Google Gemini.
 * **Technologies:** `React`, `Vite`, `Google Gemini AI`, `Vercel`.
-* **[View Project ->](https://github.com/marcobaturan/gherkin-generator)**
+* **[View Project ->](https://gherkin-generator-test-2.vercel.app/)**
 
 ### 📂 GRAG: GraphRAG.
 * **Description:** Small project to understand the utility of Graph with Retrieval Augmented Generation technology.
