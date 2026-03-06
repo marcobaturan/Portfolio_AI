@@ -31,6 +31,12 @@ Here are some of the technologies I regularly work with:
 
 Below is a selection of my most representative projects. Each includes a link to its respective folder containing the code and a more detailed explanation.
 
+📂 Stock Technical Analysis Dashboard
+
+* **Description:** Interactive financial dashboard that fetches real historical stock data and renders technical analysis charts including moving averages (MA20/50/200), Fibonacci retracement levels and support/resistance zones. AI-generated analysis summary via Hugging Face Router API with Groq fallback.
+* **Technologies**: Python, Streamlit, yfinance, Plotly, Hugging Face, Groq AI.
+[View Project ->](https://stock-dashboard-frk3gcgcfke4n5ms7xw8lb.streamlit.app/)
+
 📂 Chatbot Groq
 
 * **Description**: AI-powered embeddable chatbot with multi-turn conversation support, built on Groq's LLaMA 3.3 70B model. Deployable as a standalone web app or embedded in any website via iframe.
