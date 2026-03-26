@@ -18,11 +18,11 @@ I am a passionate **AI Manager, Data scientist, ML developer** with a strong int
 
 Here are some of the technologies I regularly work with:
 
-* **Languages:** Python, SQL, R
+* **Languages:** Python, SQL, R, JS, Ruby
 * **ML/DL Libraries:** Scikit-learn, TensorFlow, PyTorch, Keras
 * **Data Manipulation:** Pandas, NumPy, Polars
 * **Visualization:** Matplotlib, Seaborn, Plotly
-* **Areas of Expertise:** Machine Learning, Deep Learning, NLP (Hugging Face, NLTK), Computer Vision (OpenCV), MLOps (Docker, MLflow)
+* **Areas of Expertise:** Machine Learning, Deep Learning, NLP (Hugging Face, NLTK), Computer Vision (OpenCV), MLOps (Docker, MLflow), QA, Fullstack
 * **Cloud:** Google Cloud.
 
 ---
