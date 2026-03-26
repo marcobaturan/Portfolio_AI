@@ -31,70 +31,42 @@ Here are some of the technologies I regularly work with:
 
 Below is a selection of my most representative projects. Each includes a link to its respective folder containing the code and a more detailed explanation.
 
-📂 Stock Technical Analysis Dashboard
+### 📂 Stock Technical Analysis Dashboard
 
 * **Description:** Interactive financial dashboard that fetches real historical stock data and renders technical analysis charts including moving averages (MA20/50/200), Fibonacci retracement levels and support/resistance zones. AI-generated analysis summary via Hugging Face Router API with Groq fallback.
 * **Technologies**: Python, Streamlit, yfinance, Plotly, Hugging Face, Groq AI.
 * **[View Repo ->](https://github.com/marcobaturan/stock-dashboard)**
 * **[View Project ->](https://stock-dashboard-frk3gcgcfke4n5ms7xw8lb.streamlit.app/)**
 
-📂 Chatbot Groq
-
-* **Description**: AI-powered embeddable chatbot with multi-turn conversation support, built on Groq's LLaMA 3.3 70B model. Deployable as a standalone web app or embedded in any website via iframe.
-* **Technologies**: React, Vite, Groq AI, Vercel.
-* **[View Project ->](https://chatbotgroq.vercel.app/)**
-
-📂 SEO Content Analyzer
+### 📂 SEO Content Analyzer
 
 * **Description**: AI-powered web app that analyzes plain-text content and returns a structured SEO report with keywords, readability, structure evaluation and actionable recommendations, using Groq's LLaMA 3.3 70B model.
 * **Technologies**: React, Vite, Groq AI, Vercel.
+* **[View Repo ->](https://github.com/marcobaturan/SEO_Content_Analyzer)**
 * **[View Project ->](https://seocontentanalyzer.vercel.app/)**
 
 ### 📂 Gherkin Test Case Generator
 * **Description:** AI-powered web app that generates BDD test cases in Gherkin format from plain-text functional descriptions using Google Gemini.
 * **Technologies:** `React`, `Vite`, `Google Gemini AI`, `Vercel`.
+* **[View Repo ->](https://github.com/marcobaturan/gherkin-generator/blob/main/README.md)**
 * **[View Project ->](https://gherkin-generator-test-2.vercel.app/)**
 
 ### 📂 GRAG: GraphRAG.
-* **Description:** Small project to understand the utility of Graph with Retrieval Augmented Generation technology.
+* **Description:** Project to understand the utility of Graph with Retrieval Augmented Generation technology.
 * **Technologies:** `Python`, `Ollama`, `OpenAI`.
-* **[View Project ->](https://github.com/marcobaturan/GRAG)**
+* **[View Repo ->](https://github.com/marcobaturan/GRAG)**
 
-### 📂 LLM2CLIPS.
-* **Description:** Small project to understand the utility of implementation neuronal and logical architecture (by inductive reasoning with CLIPS) in a basic way .
-* **Technologies:** `Python`, `Ollama`, `Prolog`.
-* **[View Project ->](https://github.com/marcobaturan/LLM2CLIPS/tree/main)**
-  
-### 📂 Naive Neuro Symbolic.
-* **Description:** Small project to understand the utility of implementation neuronal and logical architecture (by deductive reasoning with Prolog) in a basic way.
-* **Technologies:** `Python`, `Ollama`, `Prolog`.
-* **[View Project ->](https://github.com/marcobaturan/Naive-Neuro-Symbolic)**
+### 📂 Chatbot Groq
 
-### 📂 Evolving cellular neuronal automata.
-* **Description:** Small project to understand the utility of implementation evolutiva neuronal automata with basic reinforced learning.
-* **Technologies:** `Python`, `ANN`, `AE`.
-* **[View Project ->](https://github.com/marcobaturan/evolving-cellular-neuronal-automate)**
-
-### 📂 Study on alternative type of ANNs.
-* **Description:** A set of ANNs, where use imaginary, surreal, complex, etc. numbers to research new mathmatical properties. And explore an hypothetical algebra for coding the biochemistry in artificial neurons.
-* **Technologies:** `Python`, `TensorFlow`, `Pandas`, `NLTK`, `Scikit-learn`.
-* **[View Project ->](https://github.com/marcobaturan/Portfolio_AI/tree/main/Study_on_alternatives_ANNs)**
+* **Description**: AI-powered embeddable chatbot with multi-turn conversation support, built on Groq's LLaMA 3.3 70B model. Deployable as a standalone web app or embedded in any website via iframe.
+* **Technologies**: React, Vite, Groq AI, Vercel.
+* **[View Repo ->](https://github.com/marcobaturan/chatbot-groq)**
+* **[View Project ->](https://chatbotgroq.vercel.app/)**
 
 ### 📂 News summarizer.
-* **Description:** Small project to test an online You Tube summarizer using the Groq's API LLM.
+* **Description:**  Project to test an online You Tube summarizer using the Groq's API LLM.
 * **Technologies:** `Python`, `Ollama`, `Groq`.
-* **[View Project ->]([https://github.com/marcobaturan/news_summarizer)**
-
-### 📂 Complex.
-* **Description:** Research about compose multi-modal models unified by a programatic cognitive architecture.
-* **Technologies:** `Python`, `Ollama`, `Groq`.
-* **[View Project ->](https://github.com/marcobaturan/Complex)**
-
-### 📂 Veterinary expert system paraistes.
-* **Description:** Expert veterinary system developed in Prolog to schedule deworming for dogs and cats.
-* **Technologies:** `Prolog`.
-* **[View Project ->](https://github.com/marcobaturan/sistema_experto_diagnostico_desparasitaci-n)**
-  
+* **[View Repo ->]([https://github.com/marcobaturan/news_summarizer)**
 ---
 
 ## 📫 Let's Connect!
